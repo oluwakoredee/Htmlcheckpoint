@@ -1,0 +1,45 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightblue;
+    position: fixed;
+    width: 100%;
+    position: fixed;
+}
+
+
+*{
+margin: 0;
+}
+
+form{
+    background-color: blueviolet;
+}
+#center{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 100px;
+    color: white;
+    background-color: lightblue;
+    border-radius: 35px;
+    padding: 10px;
+}
+
+#left{
+    background-color: teal;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    color: black;
+    height: 2srem;
+    margin: 3rem;
+    padding: 1rem 2rem 1rem 2rem;
+    gap: 20px;  
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
