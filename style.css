@@ -14,7 +14,11 @@ margin: 0;
 }
 
 form{
+    margin-top: 20px;
     background-color: blueviolet;
+    padding-top: 10px;
+    
+    padding-left: 10px;
 }
 #center{
     display: flex;
